@@ -24,7 +24,7 @@ jobs:
 
       - name: Create Release Pull Request or Publish to npm
         id: cs
-        uses: augustjk/changesets-actions@test
+        uses: augustjk/changesets-action@test
         with:
           version: npm run version
           publish: npm run release
