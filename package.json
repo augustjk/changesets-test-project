@@ -1,0 +1,12 @@
+{
+  "name": "@augustjk/changesets-test-project-monorepo",
+  "private": true,
+  "description": "changesets-test-project-monorepo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "augustjk",
+  "devDependencies": {
+    "@changesets/cli": "^2.25.2"
+  }
+}
