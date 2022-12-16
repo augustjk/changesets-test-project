@@ -1,6 +1,6 @@
 {
   "name": "@augustjk/test-project-a",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "publishConfig": {
     "access": "public"
   },
