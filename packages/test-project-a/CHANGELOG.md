@@ -1,5 +1,11 @@
 # @augustjk/test-project-a
 
+## 0.0.3
+
+### Patch Changes
+
+- 3c5d7c6: Update project a again
+
 ## 0.0.2
 
 ### Patch Changes
